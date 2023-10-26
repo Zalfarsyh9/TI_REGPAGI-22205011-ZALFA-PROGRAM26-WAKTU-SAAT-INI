@@ -9,6 +9,10 @@ import java.util.Locale;
 /**
  *
  * @author User
+ Nama : Zalfa Rosiyah Riski
+ Nim : 22205011
+ Jurusan : Teknik Informatika 
+ Deskripsi : Buatlah program menampilkan waktu saat ini dengan lokasi kita berada saat ini seperti berikut
  */
 public class TI_REGPAGI22205011Latihan26ZalfaJava {
 
